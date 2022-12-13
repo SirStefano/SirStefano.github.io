@@ -1,0 +1,73 @@
+body {
+    background-image: url(../Obrazki/Gówna.jpg);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lavender;
+    padding: 3%;
+    border-radius: 0 0 20px 20px ;
+}
+header div {
+    padding: 20px;
+    text-align: center;
+}
+.Obrazek1 {
+    height: 20%;
+    width: 20%;
+    border-radius: 10px;
+}
+.Linki {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dodatkowa {
+    text-decoration: none;
+    margin: 7%;
+    padding: 3%;
+    text-align: center;
+    background-color: rgb(60, 60, 124);
+    color:aliceblue;
+    border-radius: 20px;
+}
+p {
+    text-align: center;
+    background-color: rgb(190, 190, 170);
+    max-width: 300px;
+    border-radius: 10px;
+    padding: 1%;
+    font-family: cursive;
+    box-shadow: 0px 0px 10px 10px  rgba(190, 190, 170, 0.3);
+}
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lavender;
+    max-width: 300px;
+    padding: 2%;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Facebook {
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+}
+.Potrzebna {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
